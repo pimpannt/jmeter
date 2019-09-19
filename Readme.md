@@ -35,8 +35,8 @@ Add 'authid' in parameter request to handle client-server communication
 
 **6.Thread Count vs. Loop Count**
 
-Thread Count : 10 Thread,1 sec,1 Loop  (=> load to much)
-Loop Count   : 1  Thread,1 sec,10 Loop (=> too steady) and set ramp-up = 1 to keep adding 1 user every second
+Thread Count : 10 Thread,1 sec,1 Loop  (=> load to much)\
+Loop Count   : 1  Thread,1 sec,10 Loop (=> too steady) and set ramp-up = 1 to keep adding 1 user every second\
 
 **7.Listener**
 
@@ -52,13 +52,13 @@ Every time Jmeter needs to pass whole response object to check for assertion
 
 Run in NON-GUI mode to lessen memory consumption
 
-`jmeter -n -t testplan.jmx -l result.jtl`
-or
-`jmeter -n -t testplan.jmx -l result.jtl -Djmeter.save.saveservice.output_format=csv`
+`jmeter -n -t testplan.jmx -l result.jtl`\
+or\
+`jmeter -n -t testplan.jmx -l result.jtl -Djmeter.save.saveservice.output_format=csv`\
 
-note: 
-Add jmeter in $PATH
-File testplan.jmx needs to export Testplan level
+note:\
+Add jmeter in $PATH\
+File testplan.jmx needs to export Testplan level\
 
 **10.Tweaking JVM**
 
