@@ -21,7 +21,7 @@
 
 **3.Use HTTP Request Defaults**
 
-- Add 'HTTP Request Default' for each environment before Transaction Controller\
+- Add 'HTTP Request Default' for each environment before Transaction Controller
 - Enable only use file
 
 **4.Add User Defined Variable (in Config Element)**
@@ -35,7 +35,7 @@
 
 **6.Thread Count vs. Loop Count**
 
-- Thread Count : 10 Thread,1 sec,1 Loop  (=> load to much)\
+- Thread Count : 10 Thread,1 sec,1 Loop  (=> load to much)
 - Loop Count   : 1  Thread,1 sec,10 Loop (=> too steady) and set ramp-up = 1 to keep adding 1 user every second
 
 **7.Listener**
