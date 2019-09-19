@@ -12,7 +12,7 @@
 (http://www.testautomationguru.com/jmeter-tips-tricks-for-beginners/)
 
 **1.Exclude static file from test plan** 
-    ex. .css/gif, libraly version. but insert it by configuration file
+⋅⋅ex. .css/gif, libraly version. but insert it by configuration file
 
 **2.Use Transaction / Simple Controller**
     group request by scenario within Transaction or Simpler Controller
