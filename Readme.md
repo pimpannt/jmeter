@@ -2,14 +2,14 @@
 # The Jmeter Significance :wink:
 
 ## Download
-(https://jmeter.apache.org/download_jmeter.cgi)
+https://jmeter.apache.org/download_jmeter.cgi
 
 ## Exercise
-(https://medium.com/selectstarfromweb/performance-testing-using-jmeter-fd083cae68)
-(https://medium.com/gradeup/introduction-to-apache-jmeter-beginners-guide-466b741d33e5)
+https://medium.com/selectstarfromweb/performance-testing-using-jmeter-fd083cae68
+https://medium.com/gradeup/introduction-to-apache-jmeter-beginners-guide-466b741d33e5
 
 ## Tips for Jmeter Beginner
-(http://www.testautomationguru.com/jmeter-tips-tricks-for-beginners/)
+http://www.testautomationguru.com/jmeter-tips-tricks-for-beginners/
 
 **1.Exclude static file from test plan** 
 
