@@ -50,11 +50,10 @@
 
 **9.Run Test**
 
-- Run in NON-GUI mode to lessen memory consumption
-
-`jmeter -n -t testplan.jmx -l result.jtl`\
-or\
-`jmeter -n -t testplan.jmx -l result.jtl -Djmeter.save.saveservice.output_format=csv`
+- Run in NON-GUI mode to lessen memory consumption\
+  `jmeter -n -t testplan.jmx -l result.jtl`\
+  or\
+  `jmeter -n -t testplan.jmx -l result.jtl -Djmeter.save.saveservice.output_format=csv`
 
 - note:\
   Add jmeter in $PATH\
